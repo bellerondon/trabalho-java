@@ -1,2 +1,3 @@
 # trabalho-java
- Trabalho com 3 questões utilizando orientação objeto
+ Trabalho com 6
+ questões utilizando orientação objeto
